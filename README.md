@@ -1,7 +1,9 @@
 # RISCV-Hardware-Accelerators-NEORV32
 HW/SW co-design methodology on RISC-V (NEORV32) for algorithm acceleration. Using AES-128 as a case study, it explores three integration levels: pure C software, RISC-V ISA extensions (Zkne/Zknd), and dedicated hardware accelerators via CFS. Includes a custom RTL microarchitectural optimization for InvCipher.
 
-**[Read the Full B.Sc. Thesis (PDF) / Lee la Memoria Completa del TFG](TFG_JuanManuel_Delgado_Romero.pdf)**
+**[Read the Full B.Sc. Thesis (PDF) / Lee la Memoria Completa del TFG](docs/TFG_JuanManuel_Delgado_Romero.pdf)**
+
+**[Appendices / Anexos](docs/Appendices)**
 
 This repository contains the complete source code (Hardware and Software) developed for my Bachelor's Thesis (TFG) in Electronics Engineering at the **University of Seville**.
 
