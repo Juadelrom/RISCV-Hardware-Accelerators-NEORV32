@@ -22,3 +22,4 @@ Cada caso de estudio se divide internamente en:
 * **Simulación:** GHDL
 
 * **Plataforma:** Digilent Nexys 4 DDR (Artix-7 XC7A100T)
+
