@@ -20,4 +20,5 @@ Cada caso de estudio se divide internamente en:
 * **Toolchain:** xPack GNU RISC-V Embedded GCC v14.2.0
 * **Síntesis Hardware:** Xilinx Vivado 2024.2
 * **Simulación:** GHDL
+
 * **Plataforma:** Digilent Nexys 4 DDR (Artix-7 XC7A100T)
