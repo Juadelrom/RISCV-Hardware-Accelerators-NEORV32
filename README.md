@@ -42,6 +42,9 @@ The code is organized by chapters according to the BSc Thesis document:
 * B.Sc. in Electronics Engineering
 * Escuela Politécnica Superior - Universidad of Seville (2026)
 
+## Acknowledgments
+A special thanks to **Stephan Nolting** ([@stnolting](https://github.com/stnolting)), the creator of the [NEORV32](https://github.com/stnolting/neorv32) project.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 *(Note: The base NEORV32 core and derivative fragments are governed by their original BSD 3-Clause license).*
