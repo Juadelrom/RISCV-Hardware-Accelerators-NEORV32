@@ -40,7 +40,7 @@ The code is organized by chapters according to the BSc Thesis document:
 ## Author
 **Juan Manuel Delgado Romero**
 * B.Sc. in Electronics Engineering
-* Escuela Politécnica Superior - Universidad of Seville (2026)
+* Escuela Politécnica Superior - University of Seville (2026)
 
 ## Acknowledgments
 A special thanks to **Stephan Nolting** ([@stnolting](https://github.com/stnolting)), the creator of the [NEORV32](https://github.com/stnolting/neorv32) project.
